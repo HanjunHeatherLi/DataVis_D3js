@@ -1,6 +1,6 @@
 # course homework--Data and Visual Analytics (CSE6242)
 In this homework, I visualized games's popularity. The data for this homework comes from https://boardgamegeek.com/ and
-includes information on games’ ratings, popularity, and metadata. Datasets are in this repositories. Codes are in an private repositories. 
+includes information on games’ ratings, popularity, and metadata. Datasets are in this repository. Codes are in an private repository. 
 
 
 
