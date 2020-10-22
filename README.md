@@ -1,6 +1,8 @@
-# This is one homework of course Data and Visual Analytics (CSE6242)
+# course homework--Data and Visual Analytics (CSE6242)
 In this homework, I visualized games's popularity. The data for this homework comes from https://boardgamegeek.com/ and
 includes information on games’ ratings, popularity, and metadata.
+
+![force](gif/forcevideo.gif)
 
 ## 1. Force-directed graph to visualize the similarity among games. 
 If games are similar, connect with grey,thick, and solid lines.
