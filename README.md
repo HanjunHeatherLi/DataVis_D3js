@@ -10,8 +10,8 @@ If games are not similar, connect with green, thin and dashed lines.
 
 ![force](gif/forcevideo.gif)
 
-## 2. Line charts that visualizes the number of board game ratings from November 2016 to August 2020 (inclusively),for the eight board games: [‘Catan’, 'Dominion',
-'Codenames', 'Terraforming Mars', 'Gloomhaven', 'Magic: The Gathering', 'Dixit', 'Monopoly'].
+## 2. Line charts that visualizes the number of board game ratings from November 2016 to August 2020 (inclusively)
+Eight board games are included: [‘Catan’, 'Dominion','Codenames', 'Terraforming Mars', 'Gloomhaven', 'Magic: The Gathering', 'Dixit', 'Monopoly'].
 
 ![line](gif/linechart.png)
 
